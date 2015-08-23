@@ -1,3 +1,4 @@
 # ProjetoDemonstracao
-Para Exemplo Simples (AlteraÃ§Ã£o linha existente)
+Para Exemplo Simples (Alteração linha existente)
+...
 Linha Adicionada Remoto
